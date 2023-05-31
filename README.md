@@ -4,6 +4,7 @@ However, the cvs files was to large for github, so the data has been spilt up in
 To access the data download this folder an unzip the files in the SGR ans PSR folders.
 
 columns in the cvs files represent,
+
 0. viability check. Should always be True for the data.
 1. kick velocity km/s
 2. kick angle theta in degree
