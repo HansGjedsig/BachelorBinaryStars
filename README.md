@@ -1,7 +1,8 @@
 # BachelorBinaryStars
 The Data for the two simulations is located in their respective folders.
 However, the cvs files was to large for github, so the data has been spilt up in multipart zip files. 
-To access the data download this folder an unzip the files in the SGR ans PSR folders.
+
+To access the data press the green "code" botton and download this folder as a zip. Unpack it and unzip the files in the SGR ans PSR folders.
 
 columns in the cvs files represent,
 
